@@ -1,0 +1,141 @@
+cate,CHAPTER,value,CONTENT
+AIB CABINELECTRONICS,23,4,Communications 通讯
+AIB CABINELECTRONICS,25,13,Equipment / Furnishings 设备/装饰
+AIB CABINELECTRONICS,26,1,Fire Protection 防火
+AIB CABINELECTRONICS,44,20,Cabin Systems 客舱系统
+AIB CABINELECTRONICS,46,2,Information Systems 信息系统
+AIRBUS AVIONICS,22,1,Auto Flight 自动飞行
+AIRBUS AVIONICS,24,2,Electrical Power 电源
+AIRBUS AVIONICS,27,4,Flight Controls 飞行控制
+AIRBUS AVIONICS,31,1,Indicating/Recording Systems 指示/记录系统
+AIRBUS AVIONICS,46,3,Information Systems 信息系统
+AIRBUS AVIONICS,53,1,Fuselage 机身
+BAERO,21,1,Air Conditioning 空调
+BAERO,25,61,Equipment / Furnishings 设备/装饰
+BAERO,33,1,Lights 灯光
+BAERO,35,65,Oxygen 氧气
+BAERO,44,2,Cabin Systems 客舱系统
+DIEHL,25,735,Equipment / Furnishings 设备/装饰
+DIEHL,27,5,Flight Controls 飞行控制
+DIEHL,30,13,Ice & Rain Protection 防冰和排雨
+DIEHL,32,3,Landing Gear 起落架
+DIEHL,33,12,Lights 灯光
+DIEHL,38,27,Water/Waste 水/污水
+DIEHL,44,12,Cabin Systems 客舱系统
+DIEHL,49,1,Airborne Auxiliary Power 机载辅助动力
+DIEHL,52,11,Doors 舱门
+EATON,25,1,Equipment / Furnishings 设备/装饰
+ESW,31,1,Indicating/Recording Systems 指示/记录系统
+FACC,25,70,Equipment / Furnishings 设备/装饰
+HONEYWELL,21,83,Air Conditioning 空调
+HONEYWELL,22,1,Auto Flight 自动飞行
+HONEYWELL,25,1,Equipment / Furnishings 设备/装饰
+HONEYWELL,28,1,Fuel 燃油
+HONEYWELL,30,5,Ice & Rain Protection 防冰和排雨
+HONEYWELL,34,6,Navigation 导航
+HONEYWELL,36,11,Pneumatic 气源
+HONEYWELL,49,32,Airborne Auxiliary Power 机载辅助动力
+L3COM,23,4,Communications 通讯
+L3COM,31,3,Indicating/Recording Systems 指示/记录系统
+LIEBHERR,27,67,Flight Controls 飞行控制
+LIEBHERR,32,57,Landing Gear 起落架
+MEGGITT,25,2,Equipment / Furnishings 设备/装饰
+MEGGITT,26,18,Fire Protection 防火
+MOOG,27,64,Flight Controls 飞行控制
+PARKER,28,75,Fuel 燃油
+PARKER,29,43,Hydraulic Power 液压源
+PARKER,32,2,Landing Gear 起落架
+PARKER,38,1,Water/Waste 水/污水
+PARKER,47,14,NA
+ROCKWELL,23,27,Communications 通讯
+ROCKWELL,27,5,Flight Controls 飞行控制
+ROCKWELL,30,1,Ice & Rain Protection 防冰和排雨
+ROCKWELL,31,1,Indicating/Recording Systems 指示/记录系统
+ROCKWELL,34,15,Navigation 导航
+ROCKWELL,42,1,Communication Network 通讯网络
+ROCKWELL,46,22,Information Systems 信息系统
+SAFRAN AEROSYSTEMS,24,113,Electrical Power 电源
+SAFRAN AEROSYSTEMS,25,12,Equipment / Furnishings 设备/装饰
+SAFRAN AEROSYSTEMS,30,7,Ice & Rain Protection 防冰和排雨
+SAFRAN AEROSYSTEMS,32,4,Landing Gear 起落架
+SAFRAN AEROSYSTEMS,33,31,Lights 灯光
+SAFRAN AEROSYSTEMS,35,2,Oxygen 氧气
+SAFRAN CABIN,25,61,Equipment / Furnishings 设备/装饰
+SAFRAN CABIN,38,1,Water/Waste 水/污水
+SAFRAN ELECTRONICS,27,1,Flight Controls 飞行控制
+SAFRAN LANDING SYS,21,10,Air Conditioning 空调
+SAFRAN LANDING SYS,32,147,Landing Gear 起落架
+SATAI,21,7,Air Conditioning 空调
+SATAI,25,31,Equipment / Furnishings 设备/装饰
+SATAI,30,1,Ice & Rain Protection 防冰和排雨
+SATAI,32,2,Landing Gear 起落架
+SATAI,44,1,Cabin Systems 客舱系统
+SATAI,50,4,Cargo and Accessory Compartments 货舱和附件舱
+SATAI,52,1,Doors 舱门
+SIRIO,11,7,Placards & Marking 标牌和标识
+SIRIO,30,1,Ice & Rain Protection 防冰和排雨
+SIRIO,31,18,Indicating/Recording Systems 指示/记录系统
+SIRIO,33,21,Lights 灯光
+STELIA AEROSPACE,25,7,Equipment / Furnishings 设备/装饰
+TELAI,25,16,Equipment / Furnishings 设备/装饰
+TELAI,50,189,Cargo and Accessory Compartments 货舱和附件舱
+THALES,22,2,Auto Flight 自动飞行
+THALES,24,6,Electrical Power 电源
+THALES,31,9,Indicating/Recording Systems 指示/记录系统
+THALES,34,4,Navigation 导航
+THALES,42,4,Communication Network 通讯网络
+Unass.,21,21,Air Conditioning 空调
+Unass.,22,1,Auto Flight 自动飞行
+Unass.,23,5,Communications 通讯
+Unass.,24,1,Electrical Power 电源
+Unass.,25,241,Equipment / Furnishings 设备/装饰
+Unass.,26,6,Fire Protection 防火
+Unass.,27,4,Flight Controls 飞行控制
+Unass.,29,1,Hydraulic Power 液压源
+Unass.,30,181,Ice & Rain Protection 防冰和排雨
+Unass.,31,1,Indicating/Recording Systems 指示/记录系统
+Unass.,32,1,Landing Gear 起落架
+Unass.,33,16,Lights 灯光
+Unass.,34,6,Navigation 导航
+Unass.,35,1,Oxygen 氧气
+Unass.,38,2,Water/Waste 水/污水
+Unass.,44,2,Cabin Systems 客舱系统
+Unass.,46,1,Information Systems 信息系统
+Unass.,50,2,Cargo and Accessory Compartments 货舱和附件舱
+Unass.,52,4,Doors 舱门
+Unass.,56,8,Windows 舷窗
+Unass.,76,1,Engine Controls 发动机控制
+UTC,21,22,Air Conditioning 空调
+UTC,23,2,Communications 通讯
+UTC,24,7,Electrical Power 电源
+UTC,25,15,Equipment / Furnishings 设备/装饰
+UTC,27,2,Flight Controls 飞行控制
+UTC,28,1,Fuel 燃油
+UTC,32,9,Landing Gear 起落架
+UTC,33,4,Lights 灯光
+UTC,52,2,Doors 舱门
+UTC,71,50,Power Plant 动力装置
+UTC,78,95,Exhaust 排气
+ZODIAC INFLIGHT,23,65,Communications 通讯
+ZODIAC INFLIGHT,25,11,Equipment / Furnishings 设备/装饰
+ZODIAC INFLIGHT,44,248,Cabin Systems 客舱系统
+NA,5,NA,Time Limits/Maintenance Checks 时限/维护检查
+NA,6,NA,Dimensions & Areas 尺寸和区域
+NA,7,NA,Lifting and Shoring 顶起和支撑
+NA,8,NA,Leveling & Weighing 校平和称重
+NA,9,NA,Towing 1 Taxiing 牵引和滑行
+NA,10,NA,Parking & Mooring 停放和系泊
+NA,12,NA,Servicing 勤务
+NA,20,NA,Standard Practices - Airframe 标准工艺 - 机身
+NA,45,NA,Onboard Maintenance Systems (OMS) 机载维护系统(OMS)
+NA,51,NA,Standard Practices and Structures 标准工艺和结构
+NA,54,NA,Nacelles/Pylons 短舱/吊架
+NA,55,NA,Stabilizers 安定面
+NA,57,NA,Wings 大翼
+NA,72,NA,Engine 发动机
+NA,73,NA,Engine Fuel and Control 发动机燃油和控制
+NA,74,NA,Ignition 点火
+NA,75,NA,Air 空气
+NA,77,NA,Engine Indicating 发动机指示
+NA,79,NA,Oil 滑油
+NA,80,NA,Starting 起动
